@@ -74,7 +74,6 @@ Contributions to **Awesome-ASP** are highly encouraged! To contribute:
 - Tools should indicate the latest version and official link.
 - Datasets should specify domain and scale.
 
-
 ------
 
 ## 📧 Contact
