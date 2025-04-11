@@ -1,4 +1,4 @@
-# 🧠 Awesome-ASP [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/GengLabs-AI/Awesome-ASP/pulls)
+# <h1 style="text-align:center;">🧠 Awesome-ASP [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/GengLabs-AI/Awesome-ASP/pulls)
 
 A curated collection of influential papers, tools, datasets, code examples, and tutorials for Answer Set Programming (ASP) with a focus on Non-monotonic reasoning.
 
@@ -52,7 +52,6 @@ Answer Set Programming (ASP) is a powerful paradigm in logic programming, widely
 ### 📏 Evaluation
 
 
-
 ### 🎓 Tutorials
 
 - **Potassco Guide** - Official authoritative tutorial 🏆
@@ -82,4 +81,4 @@ Contributions to **Awesome-ASP** are highly encouraged! To contribute:
 
 📬 Email: ysgeng_cs@163.com
 
-<p align="center"> Made with ❤️ by Researchers for Researchers </p> ```
+<p align="center"> Made with ❤️ by Researchers for Researchers </p> 
